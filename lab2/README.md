@@ -73,3 +73,7 @@ Adaptive champion wins 55.00000000000001% of the time against expert<br>
 Adaptive champion wins 25.0% of the time against optimal<br>
 Adaptive champion wins 100.0% of the time against gabriele<br>
 Adaptive champion wins 56.00000000000001% of the time against pure_random<br>
+
+Sources from which I took inspiration:
+https://archimedes-lab.org/game_nim/nim.html#
+https://en.wikipedia.org/wiki/Nim
