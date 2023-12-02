@@ -5,7 +5,6 @@ Here are the parameters used to obtain some results:
 POPULATION_SIZE = 200  
 OFFSPRING_SIZE = 300  
 TOURNAMENT_SIZE = 2  
-MUTATION_PROBABILITY = .15  
 PROBLEM_SIZE = 2  
 GENOME_SIZE = 1000  
 
